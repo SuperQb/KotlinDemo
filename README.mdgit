@@ -1,0 +1,1 @@
+"# KotlinLearn"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/SuperQb/KotlinLearn.gitgit push -u origin master
